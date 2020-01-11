@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f58e0bfa-8a28-4d62-89a7-0dfbb0a69fb9" name="Default Changelist" comment="" />
+    <list default="true" id="f58e0bfa-8a28-4d62-89a7-0dfbb0a69fb9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/karoloweroziwazanie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wizzairLogIn.py" beforeDir="false" afterPath="$PROJECT_DIR$/wizzairLogIn.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UhAT4QJSGS2Isgync9WaEDOca0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,9 +31,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.sob1101">
+  <component name="RunManager" selected="Python.wizzairLogIn">
     <configuration name="sob1101" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="niedziela812" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,10 +77,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="wizzairLogIn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="niedziela812" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wizzairLogIn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sob1101" />
+        <item itemvalue="Python.wizzairLogIn" />
         <item itemvalue="Python.testRegister" />
+        <item itemvalue="Python.sob1101" />
       </list>
     </recent_temporary>
   </component>
@@ -108,22 +140,26 @@
       <screen x="70" y="27" width="1610" height="918" />
     </state>
     <state x="658" y="245" width="424" height="491" key="FileChooserDialogImpl/70.27.1610.918@70.27.1610.918" timestamp="1575798468100" />
-    <state width="1587" height="292" key="GridCell.Tab.0.bottom" timestamp="1578732044412">
-      <screen x="70" y="27" width="1610" height="918" />
+    <state width="1587" height="330" key="GridCell.Tab.0.bottom" timestamp="1578747512856">
+      <screen x="70" y="27" width="1610" height="1023" />
     </state>
-    <state width="1587" height="292" key="GridCell.Tab.0.bottom/70.27.1610.918@70.27.1610.918" timestamp="1578732044412" />
-    <state width="1587" height="292" key="GridCell.Tab.0.center" timestamp="1578732044411">
-      <screen x="70" y="27" width="1610" height="918" />
+    <state width="1587" height="330" key="GridCell.Tab.0.bottom/70.27.1610.1023@70.27.1610.1023" timestamp="1578747512856" />
+    <state width="1587" height="248" key="GridCell.Tab.0.bottom/70.27.1610.918@70.27.1610.918" timestamp="1578742142328" />
+    <state width="1587" height="330" key="GridCell.Tab.0.center" timestamp="1578747512854">
+      <screen x="70" y="27" width="1610" height="1023" />
     </state>
-    <state width="1587" height="292" key="GridCell.Tab.0.center/70.27.1610.918@70.27.1610.918" timestamp="1578732044411" />
-    <state width="1587" height="292" key="GridCell.Tab.0.left" timestamp="1578732044410">
-      <screen x="70" y="27" width="1610" height="918" />
+    <state width="1587" height="330" key="GridCell.Tab.0.center/70.27.1610.1023@70.27.1610.1023" timestamp="1578747512854" />
+    <state width="1587" height="248" key="GridCell.Tab.0.center/70.27.1610.918@70.27.1610.918" timestamp="1578742142327" />
+    <state width="1587" height="330" key="GridCell.Tab.0.left" timestamp="1578747512854">
+      <screen x="70" y="27" width="1610" height="1023" />
     </state>
-    <state width="1587" height="292" key="GridCell.Tab.0.left/70.27.1610.918@70.27.1610.918" timestamp="1578732044410" />
-    <state width="1587" height="292" key="GridCell.Tab.0.right" timestamp="1578732044412">
-      <screen x="70" y="27" width="1610" height="918" />
+    <state width="1587" height="330" key="GridCell.Tab.0.left/70.27.1610.1023@70.27.1610.1023" timestamp="1578747512854" />
+    <state width="1587" height="248" key="GridCell.Tab.0.left/70.27.1610.918@70.27.1610.918" timestamp="1578742142326" />
+    <state width="1587" height="330" key="GridCell.Tab.0.right" timestamp="1578747512855">
+      <screen x="70" y="27" width="1610" height="1023" />
     </state>
-    <state width="1587" height="292" key="GridCell.Tab.0.right/70.27.1610.918@70.27.1610.918" timestamp="1578732044412" />
+    <state width="1587" height="330" key="GridCell.Tab.0.right/70.27.1610.1023@70.27.1610.1023" timestamp="1578747512855" />
+    <state width="1587" height="248" key="GridCell.Tab.0.right/70.27.1610.918@70.27.1610.918" timestamp="1578742142328" />
     <state x="531" y="313" key="com.intellij.ide.util.TipDialog" timestamp="1578729761131">
       <screen x="70" y="27" width="1610" height="918" />
     </state>
